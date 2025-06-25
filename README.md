@@ -1,4 +1,4 @@
-# Movie Recommendation System using Content-Based Filtering
+# CineMatch-Personalized-Movie-Recommender using Content-Based Filtering
 
 This Python script implements a content-based movie recommendation system using the IMDb dataset. The project involves data preprocessing, text processing, and feature extraction to create a recommendation model. The primary steps include:
 

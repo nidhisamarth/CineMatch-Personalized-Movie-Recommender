@@ -1,3 +1,5 @@
+#Personalized Movie Recommender using Content-Based Filtering
+
 This Python script implements a content-based movie recommendation system using the IMDb dataset. The project involves steps such as data preprocessing, text transformation, and feature extraction to build a recommendation engine. Below is an overview of the process:
 
 1. Data Loading and Selection
